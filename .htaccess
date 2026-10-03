@@ -1,0 +1,5 @@
+# Keep technical logs and scripts out of reach from the browser (Apache 2.4+)
+<FilesMatch "\.(log|sh|sql|env)$">
+  Require all denied
+</FilesMatch>
+Options -Indexes
