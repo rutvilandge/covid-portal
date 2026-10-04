@@ -6,7 +6,6 @@ A dynamic COVID-19 Information & Awareness Portal built as an SPPU Software Test
 
 To develop a dynamic website for COVID-19 information and awareness using HTML, CSS, JavaScript and PHP, with a relational database to store user account, comment, and registration form details, and to validate the system using Regular Expression test cases.
 
-> **Database note:** The application database layer has been migrated from MySQL/MariaDB to PostgreSQL for cloud deployment while preserving the same relational data model and application functionality.
 
 ## ✨ Features
 
